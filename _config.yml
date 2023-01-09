@@ -1,0 +1,19 @@
+remote_theme: jekyll/minima
+title: Pradeep Vanga
+tagline: Personal website of Pradeep Vanga
+description: Personal website of Pradeep Vanga
+url: https://pradeepvanga.com
+
+
+site:
+  author.name: Pradeep Vanga
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/vanga" }
+    - { platform: twitter, user_url: "https://twitter.com/pradeep_vanga" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/pradeepvanga/"}
+
+
+
+google_analytics: G-E32GLWYFQZ
