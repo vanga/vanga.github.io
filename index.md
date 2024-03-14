@@ -8,6 +8,10 @@ I have been exploring and collecting public datasets recently
 * Download electoral bonds data
   * [Encashment CSV](./data/electoral-bonds/encashment.csv)
   * [Purchaser CSV](./data/electoral-bonds/purchase.csv)
+* Power generation
+  * [Hourly Power generation/load data from meritindia](https://github.com/vanga/india-power-generation/tree/main/data/meritindia/current-generation/raw)
+  * [Daily power generation data from meritindia](https://github.com/vanga/india-power-generation/tree/main/data/meritindia/daily-generation/raw)
+  * [Daily generation data from NPP](https://github.com/vanga/india-power-generation/tree/main/data/npp/daily-generation/csv)
 
 I have also been contributing to [Code-Pile](https://github.com/CarperAI/Code-Pile/), an OSS project to build a large dataset for training models like Codex.
 
