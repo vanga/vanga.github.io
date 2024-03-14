@@ -5,6 +5,9 @@ I am a Software Engineer by profession with mostly experience in Backend develop
 I have been exploring and collecting public datasets recently
 * [Indian Supreme court judgments](https://www.kaggle.com/datasets/vangap/indian-supreme-court-judgments)
 * [Dataset of LokSabha 2019 Candidates including financial assets, tax and criminal history](https://www.kaggle.com/datasets/vangap/loksabha-2019-candidate-details)
+* Download electoral bonds data
+  * [Encashment CSV](./data/electoral-bonds/encashment.csv)
+  * [Purchaser CSV](./data/electoral-bonds/purchase.csv)
 
 I have also been contributing to [Code-Pile](https://github.com/CarperAI/Code-Pile/), an OSS project to build a large dataset for training models like Codex.
 
