@@ -6,6 +6,7 @@ I have been exploring and collecting public datasets recently
 * [Indian Supreme court judgments](https://www.kaggle.com/datasets/vangap/indian-supreme-court-judgments)
 * [Dataset of LokSabha 2019 Candidates including financial assets, tax and criminal history](https://www.kaggle.com/datasets/vangap/loksabha-2019-candidate-details)
 * Download electoral bonds data
+  * [Joined data](./data/electoral-bonds/new/merged.csv)
   * [Encashment CSV with Bond numbers](./data/electoral-bonds/new/redemption-details.csv)
   * [Purchaser CSV with Bond numbers](./data/electoral-bonds/new/purchase-details.csv)
   * [Encashment CSV](./data/electoral-bonds/encashment.csv)
